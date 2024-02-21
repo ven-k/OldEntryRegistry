@@ -4,3 +4,4 @@ repo = "https://github.com/ven-k/OldEntryRegistry"
 description = "MWE for old entries problem"
 
 [packages]
+961ee093-0014-501f-94e3-6117800e7a78 = { name = "ModelingToolkit", path = "M/ModelingToolkit" }
