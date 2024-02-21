@@ -4,4 +4,5 @@ repo = "https://github.com/ven-k/OldEntryRegistry"
 description = "MWE for old entries problem"
 
 [packages]
+4c88cf16-eb10-579e-8560-4a9242c79595 = { name = "Aqua", path = "A/Aqua" }
 961ee093-0014-501f-94e3-6117800e7a78 = { name = "ModelingToolkit", path = "M/ModelingToolkit" }
