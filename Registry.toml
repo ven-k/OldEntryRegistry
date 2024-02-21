@@ -1,0 +1,6 @@
+name = "OldEntryRegistry"
+uuid = "9423fdf7-08bd-40ae-8ef9-e4a48bc76b94"
+repo = "https://github.com/ven-k/OldEntryRegistry"
+description = "MWE for old entries problem"
+
+[packages]
