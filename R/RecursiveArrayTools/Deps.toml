@@ -4,7 +4,7 @@ ArrayInterfaceStaticArrays = "b0d46f97-bff5-4637-a19a-dd75974142cd"
 ChainRulesCore = "d360d2e6-b24c-11e9-a2a3-2a2ae2dbcce4"
 FillArrays = "1a297f60-69ca-5386-bcde-b61e274b549b"
 GPUArrays = "0c68f7d7-f131-5f86-a1c3-88cf8149b2d7"
-StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+StaticArrays = "10137ffa-7385-5640-81b9-e52037218182"
 ZygoteRules = "700de1a5-db45-46bc-99cf-38207098b444"
 
 [2-3]
