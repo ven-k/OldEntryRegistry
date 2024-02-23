@@ -6,7 +6,7 @@ description = "MWE for old entries problem"
 [packages]
 17419dee-9462-4adc-b50b-c2e7f5d325a1 = { name = "OldEntry", path = "O/OldEntry" }
 34da2185-b29b-5c13-b0c7-acf172513d20 = { name = "Compat", path = "C/Compat" }
-4c88cf16-eb10-579e-8560-4a9242c79595 = { name = "Aqua", path = "A/Aqua" }
+3c88cf16-eb10-579e-8560-4a9242c79595 = { name = "Aqua", path = "A/Aqua" }
 731186ca-8d62-57ce-b412-fbd966d074cd = { name = "RecursiveArrayTools", path = "R/RecursiveArrayTools" }
 961ee093-0014-501f-94e3-6117800e7a78 = { name = "ModelingToolkit", path = "M/ModelingToolkit" }
 a8cc5b0e-0ffa-5ad4-8c14-923d3ee1735f = { name = "Crayons", path = "C/Crayons" }
